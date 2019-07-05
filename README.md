@@ -1,2 +1,11 @@
 # Ultrasonic-with-LCD
-Ultrasonic sensor (HC-SR04) set up with LCD (LCD1602) Display
+This project uses the Ultrasonic sensor to display proximity data on an LCD screen.
+
+Parts:
+Ultrasonic HC-SR04 Sensor
+LCD1602 + I2C backpack
+Arduino Uno
+Jumper wires
+
+Software:
+Requires downloading and installing the LiquidCrystalI2C library.
