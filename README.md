@@ -15,8 +15,8 @@ This project uses the Ultrasonic sensor and displays its sensor data on a LCD160
 - Unzip the **LiquidCrystal_I2C.zip** file, and drag the subsequent LiquidCrystal_I2C-1.1.2 **FOLDER** to the Documents/Arduino/libraries folder  
 
 
-## Pinout
-- Open the **ultrasonic_plus_LCD_bb.pdf** file and follow the visual instructions to set up your circuit
+## Create Arduino Circuit:
+- Open the **ultrasonic_plus_LCD_bb.pdf** file and follow the visual pinout instructions to set up your circuit
 
 
 ## IDE Code:
