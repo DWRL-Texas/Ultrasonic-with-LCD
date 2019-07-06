@@ -5,6 +5,7 @@ This project uses the Ultrasonic sensor and displays its sensor data on a LCD160
 ## Parts:
 
 - Ultrasonic HC-SR04 Sensor
+- Breadboard
 - LCD1602 + I2C Backpack
 - Arduino Uno + USB cable
 - Jumper wires
