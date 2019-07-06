@@ -1,5 +1,5 @@
-# Ultrasonic-with-LCD
-This project uses the Ultrasonic sensor and displays its sensor data on an LCD screen.
+# Ultrasonic with LCD
+This project uses the Ultrasonic sensor and displays its sensor data on a LCD1602 screen.
 
 ## Parts:
 
